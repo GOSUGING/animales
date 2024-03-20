@@ -1,0 +1,17 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Descripción de mi proyecto",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel assets/js -d build/js"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.1",
+    "@babel/preset-env": "^7.24.1"
+  }
+}
